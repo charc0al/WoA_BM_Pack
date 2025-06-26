@@ -8,7 +8,7 @@
 	"authors": ["Charc0al"],
 	"frameworkVersion": "2.33.26",
 	"contentFolders": [
-		"content/bloodmoneypack", "content/Bloody47", "content/MoreBlood"
+		"content/bloodmoneypack", "content/Bloody47", "content/MoreBlood", "content/smallobjectives"
 	],
 	"options": [
 		{
