@@ -12,6 +12,15 @@
 	],
 	"options": [
 		{
+			"name": "Minimal Instinct",
+			"tooltip": "Minimal instinct",
+			"group": "Other",
+			"type": "checkbox",
+			"contentFolders": [
+				"content/minimal_instinct"
+			]
+		},
+		{
 			"name": "44 Magnum",
 			"tooltip": "Check this if you're using the 44 magnum",
 			"group": "Other",
