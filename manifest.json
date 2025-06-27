@@ -28,6 +28,15 @@
 			"contentFolders": [
 				"content/Revolver"
 			]
+		},
+		{
+			"name": "WWise Crashfix Test",
+			"tooltip": "Delete some debug shit, maybe it'll fix a crash",
+			"group": "Other",
+			"type": "checkbox",
+			"contentFolders": [
+				"content/entitypatches"
+			]
 		}
 	]
 }
